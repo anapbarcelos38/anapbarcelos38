@@ -1,16 +1,33 @@
-## Hi there 👋
+# ðŸ‘‹ OlÃ¡, eu sou a Ana Paula  
 
-<!--
-**anapbarcelos38/anapbarcelos38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ðŸŒŸ Apaixonada por tecnologia e pelo poder da lÃ³gica, trilhei um caminho especial: iniciei minha trajetÃ³ria na Ã¡rea da saÃºde e hoje construo meu futuro em *Tecnologia da InformaÃ§Ã£o*.  
 
-Here are some ideas to get you started:
+ðŸ’» Atualmente, estudo atualmente AnÃ¡lise e Desenvolvimento de Sistemas e Adm. de Banco de Dados.  
+ðŸŒ± Acredito no potencial da tecnologia para transformar vidas e criar oportunidades inclusivas.  
+ðŸ‘©â€ðŸ‘§ AlÃ©m de profissional e estudante dedicada, tambÃ©m concilio meus sonhos com a maternidade, aprendendo todos os dias sobre equilÃ­brio e resiliÃªncia.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ðŸš€ Tecnologias e Ferramentas 
+(Estudando)
+- Git & GitHub  
+- HTML, CSS, JavaScript  
+- Python  
+- Scrum
+
+---
+
+## ðŸŒ Interesses  
+- InclusÃ£o digital e acessibilidade (WCAG)  
+- Projetos sociais com tecnologia  
+- Sustentabilidade na TI  
+- SaÃºde mental e impacto positivo por meio da inovaÃ§Ã£o  
+
+---
+
+## ðŸ“« Como me encontrar  
+- [LinkedIn](www.linkedin.com/in/ana-paula-vasconcelos-brandão-258b35209) <!-- coloque aqui o seu link real -->  
+
+---
+
+âœ¨ â€œA tecnologia Ã© uma ponte que pode aproximar pessoas, gerar inclusÃ£o e abrir novos caminhos.â€
