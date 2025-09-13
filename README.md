@@ -37,7 +37,7 @@
   <a href="www.linkedin.com/in/ana-paula-vasconcelos-brandão-258b35209" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:barataanapaula417@gmail.com">
+  <a href="barataanapaula417@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
