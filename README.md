@@ -2,9 +2,10 @@
 
 # 👋 Olá, eu sou a Ana Paula  
 
-🌟 Apaixonada por tecnologia e pela lógica, trilhei um caminho especial: iniciei minha trajetória na área da saúde e hoje construo meu futuro em *Tecnologia da Informação*.  
+🌟 Apaixonada por tecnologia, trilhei um caminho especial: iniciei minha trajetória na área da saúde e hoje construo meu futuro em *Tecnologia da Informação*.  
 
 💻 Atualmente, estudo Análise e Desenvolvimento de Sistemas e Administração de Banco de Dados 
+
 🌱 Acredito no potencial da tecnologia para transformar vidas e criar oportunidades inclusivas.   
 
 ---
